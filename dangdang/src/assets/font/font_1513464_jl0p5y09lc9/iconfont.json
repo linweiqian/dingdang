@@ -1,0 +1,58 @@
+{
+  "id": "1513464",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "992445",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "3110701",
+      "name": "图书",
+      "font_class": "tushu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "3217868",
+      "name": "分类",
+      "font_class": "icon-",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "3427880",
+      "name": "向上",
+      "font_class": "icon-1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "4425831",
+      "name": "左边",
+      "font_class": "zuobian",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "8103415",
+      "name": "个人中心",
+      "font_class": "danseshixintubiao-",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9626865",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e86d",
+      "unicode_decimal": 59501
+    }
+  ]
+}

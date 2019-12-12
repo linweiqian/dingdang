@@ -1,0 +1,38 @@
+body,html,ul,li,ol,input,h1,h2,h3,h4,h5,div,p,a,span{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none !important;
+}
+.clearfix{
+    content: "";
+    clear: both;
+    display: block;
+}
+.layout{
+    width: 100%;
+    min-width: 320px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+input,input:active{
+    border: none;
+}
+.right_line{
+    border-right: 1px solid #EFF4FA;
+}
+.top_line{
+    border-top: 1px solid #EFF4FA;
+}
+.bottom_line{
+    border-bottom: 1px solid #EFF4FA;
+}
+.left_line{
+    border-left: 1px solid #EFF4FA;
+}
