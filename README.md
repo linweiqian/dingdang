@@ -5,6 +5,3 @@
 ![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%202.png)
 ![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%203.png)
 ![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%204.png)
-![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%205.png)
-![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%206.png)
-![images](https://github.com/linweiqian/dingdang/blob/master/images/Image%207.png)
